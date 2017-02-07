@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/atais/angular-eonasdan-datetimepicker.git"
+    "url": "git://github.com/kafs1696/angular-eonasdan-datetimepicker.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/atais/angular-eonasdan-datetimepicker",
+  "homepage": "https://github.com/kafs1696/angular-eonasdan-datetimepicker",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -29,7 +29,7 @@
   "dependencies": {
     "angular": "*",
     "bootstrap": "*",
-    "eonasdan-bootstrap-datetimepicker": "~4",
+    "rewath-bootstrap-datetime-picker": "~4",
     "moment": "*",
     "jquery": "~2"
   }
